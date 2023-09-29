@@ -66,7 +66,6 @@ setup(
         "pyntcloud",
         "scipy",
         "shapely",
-        "sklearn",
         "tqdm",
         "typing_extensions",
     ],
